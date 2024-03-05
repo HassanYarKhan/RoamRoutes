@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.headerFont{
+  font-family: "Sansita Swashed", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
